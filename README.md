@@ -24,6 +24,7 @@ The complete docs are hosted here: [bitcore documentation](http://bitcore.io/gui
 - [Read the Developer Guide](http://bitcore.io/guide/)
 - [Read the API Reference](http://bitcore.io/api/)
 
+
 To get community assistance and ask for help with implementation questions, please use our [community forums](https://forum.bitcore.io/).
 
 ## Examples
