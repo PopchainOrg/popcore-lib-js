@@ -10,11 +10,7 @@ Popchain is a powerful new peer-to-peer platform for the next generation of fina
 ## Get Started
 
 ```
-npm install popcore-lib-js
-```
-
-```
-bower install popcore-lib-js
+git clone https://github.com/PopchainOrg/popcore-lib-js.git
 ```
 
 ## Documentation
