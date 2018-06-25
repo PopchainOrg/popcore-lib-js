@@ -1,7 +1,7 @@
-Popchain Library
+Popchain Core Library
 =======
 
-JavaScript library of Popchain for pool, block explorer and the wallet service..
+Popchain Core Library is a JavaScript library of Popchain for pool, block explorer and the wallet service.
 
 ## Principles
 
