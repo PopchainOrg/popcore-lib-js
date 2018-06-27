@@ -5,7 +5,7 @@ Popchain Core Library is a JavaScript library of Popchain for pool, block explor
 
 ## Principles
 
-Popchain is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Popchain network allows for highly resilient Popchain infrastructure, and the developer community needs reliable, open-source tools to implement popchain apps and services.
+Popchain is a live-streamable digital contents distribution service platform based on block chain technology which aims to create a pan entertainment ecosystem. The decentralized nature of the Popchain network allows for highly resilient Popchain infrastructure, and the developer community needs reliable, open-source tools to implement popchain apps and services.
 
 ## Get Started
 
