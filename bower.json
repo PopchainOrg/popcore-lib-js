@@ -1,0 +1,30 @@
+{
+  "name": "popcore-lib-js",
+  "main": "./popcore-lib-js.min.js",
+  "version": "0.1.0",
+  "homepage": "http://popchain.org",
+  "authors": [
+    "Popchain DevTeam."
+  ],
+  "description": "A pure, powerful core for your popchain project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "popchain",
+    "popcore",
+    "pch",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
